@@ -4,7 +4,7 @@
 - **Fullstack Development:**  
   ASP.NET Core Web API | Angular | REST | gRPC | RabbitMQ | JWT Bearer Authentication
 
-- **DevOps & Containerization:**  
+- **DevOps:**  
   Docker | Kubernetes
 
 - **Databases:**  
