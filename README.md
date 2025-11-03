@@ -1,4 +1,4 @@
-- **Programming Languages:**
+- **Programming Languages:**  
   C# | TypeScript | HTML | CSS | JavaScript | Python | C++
 
 - **Fullstack Development & Tools:**  
