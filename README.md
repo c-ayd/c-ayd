@@ -1,8 +1,8 @@
-- **Programming Languages:**  
-  C/C++ | C# | JavaScript | TypeScript | Python
+- **Programming Languages:**
+  C# | TypeScript | HTML | CSS | JavaScript | Python | C++
 
-- **Fullstack Development:**  
-  ASP.NET Core Web API | Angular | REST | gRPC | RabbitMQ | JWT Bearer Authentication
+- **Fullstack Development & Tools:**  
+  ASP.NET Core Web API | Angular | Angular Material | gRPC | RabbitMQ | Git
 
 - **DevOps:**  
   Docker | Kubernetes
