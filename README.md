@@ -1,11 +1,17 @@
 - **Programming Languages:**  
-  C# | TypeScript | HTML | CSS | JavaScript | Python | C++
+  C# | TypeScript | JavaScript | Python | HTML | CSS | C | C++
 
-- **Fullstack Development & Tools:**  
-  ASP.NET Core Web API | Angular | Angular Material | gRPC | RabbitMQ | Git
+- **Backend:**  
+  ASP.NET Core Web API | gRPC | JWT
 
-- **DevOps:**  
-  Docker | Kubernetes
+- **Frontend:**  
+  Angular | Angular Material
 
 - **Databases:**  
   PostgreSQL | MongoDB
+
+- **DevOps & Tools:**  
+  Docker | Kubernetes | Git | CI/CD (Render/GitHub)
+
+- **Message Brokers:**  
+  RabbitMQ
