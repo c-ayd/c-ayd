@@ -1,17 +1,8 @@
 - **Programming Languages:**  
   C# | TypeScript | JavaScript | Python | HTML | CSS | C | C++
 
-- **Backend:**  
-  ASP.NET Core Web API | gRPC | JWT
-
-- **Frontend:**  
-  Angular | Angular Material
-
-- **Databases:**  
-  PostgreSQL | MongoDB
+- **Backend & Frontend:**  
+  .NET/ASP.NET Core | YARP | EF Core | PostgreSQL | RabbitMQ | Redis | gRPC | Angular | Angular Material
 
 - **DevOps & Tools:**  
-  Docker | Kubernetes | Git | CI/CD (Render/GitHub)
-
-- **Message Brokers:**  
-  RabbitMQ
+  AWS | Docker | Terraform | Git | CI/CD (GitHub Actions)
